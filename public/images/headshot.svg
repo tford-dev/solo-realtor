@@ -1,0 +1,18 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="1100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102035"/>
+      <stop offset="1" stop-color="#1D2F4A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="136" y1="288" x2="768" y2="896" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C9A264" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#C9A264" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#bg)"/>
+  <circle cx="450" cy="430" r="210" fill="#E8D8BD"/>
+  <path d="M300 880C300 774 386 688 492 688H506C612 688 698 774 698 880V980H300V880Z" fill="#E8D8BD"/>
+  <path d="M278 980H720V1060H278V980Z" fill="#122742"/>
+  <rect x="84" y="84" width="732" height="932" rx="30" fill="url(#accent)" opacity="0.38"/>
+  <text x="450" y="1040" fill="#F8F7F2" font-size="42" font-family="Georgia, serif" text-anchor="middle">Terrance Ford</text>
+</svg>

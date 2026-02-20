@@ -1,0 +1,10 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#F4F1EA"/>
+  <rect y="550" width="1200" height="250" fill="#D9CFBF"/>
+  <rect x="180" y="260" width="840" height="340" rx="14" fill="#243956"/>
+  <rect x="240" y="330" width="180" height="180" fill="#F8F7F2"/>
+  <rect x="480" y="330" width="180" height="180" fill="#F8F7F2"/>
+  <rect x="720" y="330" width="180" height="180" fill="#F8F7F2"/>
+  <rect x="930" y="380" width="70" height="220" fill="#B9975B"/>
+  <text x="100" y="110" fill="#1A1D22" font-size="50" font-family="Georgia, serif">Golf Course Estate</text>
+</svg>

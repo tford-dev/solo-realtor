@@ -1,0 +1,11 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#E7EDF2"/>
+  <rect y="530" width="1200" height="270" fill="#C8D8E5"/>
+  <rect x="190" y="280" width="820" height="300" rx="10" fill="#2A4565"/>
+  <rect x="260" y="340" width="160" height="170" fill="#F8F7F2"/>
+  <rect x="470" y="340" width="160" height="170" fill="#F8F7F2"/>
+  <rect x="680" y="340" width="160" height="170" fill="#F8F7F2"/>
+  <rect x="890" y="340" width="80" height="240" fill="#B9975B"/>
+  <circle cx="170" cy="150" r="70" fill="#B9975B" fill-opacity="0.8"/>
+  <text x="80" y="100" fill="#1A1D22" font-size="50" font-family="Georgia, serif">Waterfront Townhome Collection</text>
+</svg>

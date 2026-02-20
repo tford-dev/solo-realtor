@@ -1,0 +1,9 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#F5F3EE"/>
+  <rect y="520" width="1200" height="280" fill="#DCD2C2"/>
+  <rect x="180" y="270" width="840" height="320" rx="20" fill="#304A6C"/>
+  <polygon points="140,270 600,120 1060,270" fill="#1E314E"/>
+  <rect x="320" y="370" width="180" height="220" fill="#F8F7F2"/>
+  <rect x="700" y="370" width="180" height="220" fill="#F8F7F2"/>
+  <text x="90" y="100" fill="#1A1D22" font-size="50" font-family="Georgia, serif">Family Home in Kempsville</text>
+</svg>

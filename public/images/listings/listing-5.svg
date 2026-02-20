@@ -1,0 +1,10 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#ECE8DE"/>
+  <rect y="540" width="1200" height="260" fill="#D6CDBE"/>
+  <rect x="160" y="250" width="880" height="330" rx="12" fill="#203654"/>
+  <rect x="230" y="320" width="200" height="190" fill="#F8F7F2"/>
+  <rect x="500" y="320" width="200" height="190" fill="#F8F7F2"/>
+  <rect x="770" y="320" width="200" height="190" fill="#F8F7F2"/>
+  <rect x="550" y="220" width="100" height="60" fill="#B9975B"/>
+  <text x="90" y="100" fill="#1A1D22" font-size="50" font-family="Georgia, serif">New Construction Coastal Home</text>
+</svg>

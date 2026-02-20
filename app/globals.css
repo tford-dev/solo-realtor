@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-ivory font-sans text-charcoal antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply font-display;
+}
+
+.container-max {
+  @apply mx-auto w-full max-w-6xl;
+}
+
+.section-padding {
+  @apply px-6 py-16 md:px-10 md:py-20 lg:px-16;
+}
+
+.btn-primary {
+  @apply inline-flex items-center justify-center rounded-md border border-gold bg-gold px-5 py-3 text-sm font-semibold tracking-wide text-navy uppercase transition hover:bg-transparent hover:text-gold;
+}
+
+.btn-secondary {
+  @apply inline-flex items-center justify-center rounded-md border border-navy/20 bg-white px-5 py-3 text-sm font-semibold tracking-wide text-navy uppercase transition hover:border-navy hover:bg-navy hover:text-white;
+}
+
+.card-surface {
+  @apply rounded-xl border border-navy/10 bg-white shadow-soft;
+}
+
+.input-field {
+  @apply w-full rounded-md border border-navy/15 bg-white px-3 py-2.5 text-sm text-charcoal outline-none transition placeholder:text-slate/60 focus:border-gold focus:ring-2 focus:ring-gold/25;
+}
+
+.hero-glow::before,
+.hero-glow::after {
+  content: "";
+  position: absolute;
+  border-radius: 9999px;
+  filter: blur(80px);
+  pointer-events: none;
+}
+
+.hero-glow::before {
+  width: 320px;
+  height: 320px;
+  background: rgba(185, 151, 91, 0.35);
+  top: -90px;
+  right: -40px;
+}
+
+.hero-glow::after {
+  width: 280px;
+  height: 280px;
+  background: rgba(248, 247, 242, 0.12);
+  bottom: -120px;
+  left: -80px;
+}

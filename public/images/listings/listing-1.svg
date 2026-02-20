@@ -1,0 +1,10 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#EDE9E0"/>
+  <rect y="520" width="1200" height="280" fill="#D4C8B6"/>
+  <rect x="120" y="280" width="960" height="300" rx="16" fill="#1E314E"/>
+  <rect x="180" y="340" width="220" height="180" fill="#F8F7F2"/>
+  <rect x="460" y="340" width="220" height="180" fill="#F8F7F2"/>
+  <rect x="740" y="340" width="220" height="180" fill="#F8F7F2"/>
+  <circle cx="980" cy="150" r="80" fill="#B9975B"/>
+  <text x="80" y="100" fill="#1A1D22" font-size="50" font-family="Georgia, serif">Bayfront Modern Retreat</text>
+</svg>

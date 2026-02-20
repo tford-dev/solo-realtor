@@ -1,0 +1,15 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E1A2E"/>
+      <stop offset="1" stop-color="#1B2E4B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <circle cx="1000" cy="90" r="220" fill="#B9975B" fill-opacity="0.22"/>
+  <circle cx="180" cy="560" r="260" fill="#F8F7F2" fill-opacity="0.08"/>
+  <text x="90" y="255" fill="#F8F7F2" font-size="72" font-family="Georgia, serif">Terrance Ford</text>
+  <text x="90" y="325" fill="#B9975B" font-size="40" font-family="system-ui, sans-serif">Helping You Buy &amp; Sell with Confidence</text>
+  <text x="90" y="390" fill="#F8F7F2" font-size="30" font-family="system-ui, sans-serif">Real Estate Agent in Virginia Beach, VA</text>
+  <text x="90" y="445" fill="#F8F7F2" font-size="26" font-family="system-ui, sans-serif">757-814-5785  •  terrance@terrance-ford.com</text>
+</svg>
