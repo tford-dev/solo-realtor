@@ -33,7 +33,7 @@ export default function AboutPage(): JSX.Element {
 
           <div className="card-surface overflow-hidden">
             <Image
-              src="/images/headshot.svg"
+              src="/images/side-image-arm-up-brighter.png"
               alt="Terrance Ford professional realtor headshot"
               width={800}
               height={950}

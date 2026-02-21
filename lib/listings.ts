@@ -26,7 +26,7 @@ export const listings: Listing[] = [
     beds: 4,
     baths: 3.5,
     sqft: 3200,
-    image: "/images/listings/listing-1.svg",
+    image: "/images/listings/listing-1.png",
     description:
       "Designed for coastal living, this modern home offers open-concept interiors, premium finishes, and direct access to bay views.",
     features: [
@@ -47,7 +47,7 @@ export const listings: Listing[] = [
     beds: 5,
     baths: 4,
     sqft: 3650,
-    image: "/images/listings/listing-2.svg",
+    image: "/images/listings/listing-2.png",
     description:
       "Elegant brick-front estate with custom millwork, dramatic ceilings, and manicured grounds bordering a private golf community.",
     features: [
@@ -68,7 +68,7 @@ export const listings: Listing[] = [
     beds: 2,
     baths: 2,
     sqft: 1825,
-    image: "/images/listings/listing-3.svg",
+    image: "/images/listings/listing-3.png",
     description:
       "Refined high-rise living with skyline views, concierge amenities, and custom interior upgrades throughout.",
     features: [
@@ -89,7 +89,7 @@ export const listings: Listing[] = [
     beds: 4,
     baths: 2.5,
     sqft: 2480,
-    image: "/images/listings/listing-4.svg",
+    image: "/images/listings/listing-4.png",
     description:
       "A warm, updated home on a cul-de-sac with spacious living zones and a backyard built for family gatherings.",
     features: [
@@ -110,7 +110,7 @@ export const listings: Listing[] = [
     beds: 5,
     baths: 4.5,
     sqft: 3900,
-    image: "/images/listings/listing-5.svg",
+    image: "/images/listings/listing-5.png",
     description:
       "Newly built custom residence combining timeless architecture, expansive natural light, and upscale modern conveniences.",
     features: [
@@ -131,7 +131,7 @@ export const listings: Listing[] = [
     beds: 3,
     baths: 2.5,
     sqft: 2105,
-    image: "/images/listings/listing-6.svg",
+    image: "/images/listings/listing-6.png",
     description:
       "Turn-key waterfront townhome with low-maintenance living, private deck, and premium community amenities.",
     features: [

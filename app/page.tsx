@@ -66,7 +66,7 @@ export default function HomePage(): JSX.Element {
             <div className="mx-auto w-full max-w-md animate-fade-up">
               <div className="card-surface overflow-hidden border-white/10 bg-white/5">
                 <Image
-                  src="/images/headshot.svg"
+                  src="/images/headshot.png"
                   alt="Professional headshot of Terrance Ford"
                   width={720}
                   height={880}
